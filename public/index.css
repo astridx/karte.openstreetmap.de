@@ -126,7 +126,7 @@ a {
   gap: 0.5em;
 }
 
-.routing-buttons img {
+.routing-buttons svg {
   width: 24px;
   height: 24px;
   display: inline-block;
